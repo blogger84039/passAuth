@@ -16,6 +16,10 @@ html, body {
     width: 100%;
 }
 
+#content {
+    grid-column-start: 2;
+}
+
 #answer {
     color: #cccccc;
     font-size: 10px;
