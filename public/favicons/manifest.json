@@ -1,8 +1,8 @@
 {
-	"name":				"",
-	"short_name":		"",
-	"description":		"",
-	"start_url":		"/",
+	"name":				"ただのパスワード認証",
+	"short_name":		"ただのパスワード認証",
+	"description":		"作者(blogger84039)の思い付きと勢いで作られたただただパスワード認証ができるサイト。作者はよくコイツの存在を忘れてます。",
+	"start_url":		"/passAuth/",
 	"display":			"standalone",
 	"orientation":		"any",
 	"background_color":	"#fff",
